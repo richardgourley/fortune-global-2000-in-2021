@@ -16,10 +16,10 @@ https://www.kaggle.com/shivamb/fortune-global-2000-companies-till-2021/version/1
 2. Assets - which companies have the most assets?
 
 ## FEATURES
-1. Defining the business questions - **(1-business-questions.ipynb)**
-2. Extracting and cleaning the data by checking for and handling NaN values and incorrect types - **(2-extract-and-clean-data.ipynb)**
-3. Transforming the data by converting strings to usable numbers in millions or billions and creating new columns - **(3.transform-the-data)**
-4. Creating visualizations - **(4-visualizations.ipynb)**
+1. Defining business questions - **(1-business-questions.ipynb)**
+2. Extract the data and check column info, spelling errors, column formats, tidy columns  and find and replace errors and any null or NaN values - **(2-extract-and-clean-data.ipynb)**
+3. Transforming the data by creating functions to convert string representation to integers and create new columns from existing data - **(3.transform-the-data)**
+4. Creating visualizations using matplotlib - **(4-visualizations.ipynb)**
 
 ## TOOLS
 Pandas
