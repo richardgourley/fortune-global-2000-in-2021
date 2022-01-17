@@ -2,23 +2,50 @@
 
 ## INTRODUCTION
 
-A detailed analysis project based on the top 2000 global companies in 2021. It focuses on countries, profit to sales and assets, The project uses Pandas, Numpy and Matplotlib. 
+A detailed analysis project based on the top 2000 global companies in 2021. It focuses on countries, profit to sales and assets. The project uses Pandas, Numpy and Matplotlib. 
 
-### - The dataset is a list of the fortune 2000 companies globally with results from 2021.
-- The questions below focus on 3 areas of interest
+### The dataset used is a list of the fortune 2000 companies globally with results from 2021.
+https://www.kaggle.com/shivamb/fortune-global-2000-companies-till-2021/version/1
+
+- The questions answered in this project focus on 3 areas of interest
+
 1. Countries - which countries appear most in the list for various metrics.
-2. Companies - which companies have the best profit to sales ratio?
-2. Assets - which companies have the most assets (and which country they are in.)
+2. Profit to Sales - which of the top companies have the best profit to sales ratio?
+2. Assets - which companies have the most assets?
 
-### BY COUNTRY
-- Which countries have the highest number of companies in the list?
-- What share of companies on the list do the big two (USA and China) have in comparison to the rest of the world?
-- Which countries have the highest and lowest number of companies making a profit?
+## FEATURES
+1. Defining the business questions - **(1-business-questions.ipynb)**
+2. Extracting and cleaning the data by handing NaN values and incorrect types - **(2-extract-and-clean-data.ipynb)**
+3. Transforming the data by converting strings to usable numbers in millions or billions and creating new columns - **(3.transform-the-data)**
+4. Creating visualizations - **(4-visualizations.ipynb)**
 
-### BY COMPANY (OVERVIEW OF PROFIT TO SALES)
-- Which companies have the best profit to sales ratio?
+## TOOLS
+Pandas
+Matplotlib
+Numpy
 
-### BY ASSETS
-- What are the top 20 companies in terms of assets?
+## GETTING STARTED
 
+### If you are new to Pandas or Python
 
+1. Set up Jupyter notebooks (see below)
+2. Work through the examples step by step.
+
+New to Pandas
+1. Make sure you learn Python and SQL basics before Pandas (my recommendation)
+2. This pandas intro course is useful - https://www.youtube.com/watch?v=WcDaZ67TVRo&t=7270s
+
+Pandas docs:
+https://pandas.pydata.org/pandas-docs/stable/index.html
+
+### Setting up Jupyter Notebooks
+
+It's easier to work with Pandas inside Jupyter notebooks (although it works ok in normal .py python files). 
+
+It's optional but it can be useful to setup Jupyter notebooks via Anaconda which has a range of useful tools you can use along with Jupyter notebooks.  You can activate your Jupyter notebooks local server via an Anaconda installation:
+
+https://www.anaconda.com/
+
+Check out more at the Jupyter notebook docs:
+
+https://docs.jupyter.org/en/latest/ 
