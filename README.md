@@ -40,11 +40,12 @@ New to Pandas
 Pandas docs:
 https://pandas.pydata.org/pandas-docs/stable/index.html
 
+Matplotlib docs:
+https://matplotlib.org/stable/tutorials/index.html
+
 ### Setting up Jupyter Notebooks
 
-It's easier to work with Pandas inside Jupyter notebooks (although it works ok in normal .py python files). 
-
-It's optional but it can be useful to setup Jupyter notebooks via Anaconda which has a range of useful tools you can use along with Jupyter notebooks.  You can activate your Jupyter notebooks local server via an Anaconda installation:
+Jupyter notebooks and other useful tools can be downloaded with an Anaconda package:
 
 https://www.anaconda.com/
 
