@@ -11,7 +11,7 @@ https://www.kaggle.com/shivamb/fortune-global-2000-companies-till-2021/version/1
 
 - The questions answered in this project focus on 3 areas of interest
 
-1. Countries - which countries appear most in the list for various metrics.
+1. Countries - which countries appear most in the list for various metrics such as number of companies on the list, top 20 for average profit per company and more.
 2. Profit to Sales - which of the top companies have the best profit to sales ratio?
 2. Assets - which companies have the most assets?
 
